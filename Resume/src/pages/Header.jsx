@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div>
-      <img src="" alt="" className="" />
+      <h1>SHUBHAM</h1>
     </div>
   );
 };
